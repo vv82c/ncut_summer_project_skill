@@ -1,0 +1,2 @@
+# ncut_summer_project_skill
+北方工业大学计科专业小学期skill
